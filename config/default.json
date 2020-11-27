@@ -1,4 +1,0 @@
-{
-    "mongoUrl":"mongodb+srv://ramzi123:ramzi123@cluster0.ut4fo.mongodb.net/devconnector?retryWrites=true&w=majority",
-    "jwtSecret":"mysecrettoken"
-}
