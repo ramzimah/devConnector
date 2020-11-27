@@ -1,0 +1,4 @@
+{
+	"mongoURI": "put ur ongo url",
+	"jwtSecret": "put ur jwtSecret"
+}
