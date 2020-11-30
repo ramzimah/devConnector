@@ -8,6 +8,7 @@ const connectdb = async () => {
       useNewUrlParser: true,
       useUnifiedTopology: true,
       useCreateIndex: true,
+      useFindAndModify: false,
     });
     console.log("db connected");
   } catch (err) {
